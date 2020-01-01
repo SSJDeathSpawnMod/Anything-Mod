@@ -1,0 +1,16 @@
+[
+{
+  "modid": "anything",
+  "name": "Anything Mod",
+  "description": "Add a whole load of random stuff.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DeathSpawn", "WhackAP"],
+  "credits": "Thanks to CJMinecraft and Mr.Crayfish for their modding tutorials.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
